@@ -1,0 +1,6 @@
+*.tif
+venv/
+*.gpkg
+*.tar.gz
+rasters/
+reprojected/
